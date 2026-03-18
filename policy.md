@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Somniverse - Confidentialité"
+title: 'Somniverse - Confidentialité'
 ---
 
 <section id="privacy" class="policy-content">
@@ -61,6 +61,41 @@ title: "Somniverse - Confidentialité"
   <h2>Votre consentement</h2>
   <p>
     En utilisant l'Application, vous consentez au traitement de vos informations tel que défini dans cette politique de confidentialité maintenant et tel que modifié par la suite.
+  </p>
+
+  <h2>Modération des Contenus</h2>
+  <p>
+    Somniverse utilise un système de modération pour garantir un environnement sûr et respectueux pour tous les utilisateurs. Tous les contenus publiés sur l'Application sont susceptibles d'être examinés, approuvés ou supprimés s'ils sont jugés non conformes à nos règles de conduite.
+  </p>
+  
+  <h3>Publications textuelles</h3>
+  <p>
+    Les types de contenus textuels suivants sont considérés comme inappropriés et seront supprimés :
+  </p>
+  <ul>
+    <li>Contenus racistes ou discriminatoires</li>
+    <li>Incitation à la haine ou à la violence</li>
+    <li>Incitation au suicide ou à l'automutilation</li>
+    <li>Apologie du viol ou d'agressions sexuelles</li>
+    <li>Apologie du terrorisme ou d'activités terroristes</li>
+    <li>Promotion de drogues illégales</li>
+    <li>Tout autre contenu contraire aux lois en vigueur ou à nos conditions d'utilisation</li>
+  </ul>
+
+  <h3>Images (profil et groupes)</h3>
+  <p>
+    Les images de profil et les images de groupe ne doivent pas contenir :
+  </p>
+  <ul>
+    <li>Contenus pornographiques ou à caractère sexuel explicite</li>
+    <li>Contenus racistes ou discriminatoires</li>
+    <li>Symboles ou contenus liés au terrorisme</li>
+    <li>Contenus violents ou choquants</li>
+    <li>Tout autre contenu inapproprié ou contraire à nos règles de conduite</li>
+  </ul>
+
+  <p>
+    Nous nous réservons le droit de bannir définitivement ou temporairement les comptes d'utilisateurs qui ne respectent pas ces règles. Les décisions de modération sont prises à notre seule discrétion et peuvent être exercées sans préavis.
   </p>
 
   <h2>Modifications de cette Politique</h2>
